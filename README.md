@@ -1,7 +1,5 @@
 ### Hi there,I'm Akash Shiva 👋
 
-<img src="https://github4life.herokuapp.com/akaProgramer.gif">
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akaProgramer)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
