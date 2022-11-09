@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![@akash_git's Holopin board](https://holopin.me/akash_git)](https://holopin.io/@akash_git
+[![@akash_git's Holopin board](https://holopin.me/akash_git)](https://holopin.io/@akash_git)
